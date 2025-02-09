@@ -1,8 +1,7 @@
 FROM fedora:latest
 
 # Set environment variables
-ENV PG_MAJOR=16 \
-    PGDATA=/var/lib/postgresql/data
+ENV PGDATA=/var/lib/postgresql/data
 
 # Update system and install dependencies
 RUN dnf install -y --setopt=install_weak_deps=False \
