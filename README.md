@@ -2,7 +2,7 @@
 
 [![Docker Compatible](https://img.shields.io/badge/Docker-Compatible-blue?logo=docker)](https://www.docker.com/)
 [![Podman Compatible](https://img.shields.io/badge/Podman-Compatible-purple?logo=redhat)](https://podman.io/)
-[![MIT License](https://img.shields.io/github/license/yourusername/DockerPodmanFiles)](LICENSE)
+[![MIT License](https://img.shields.io/github/license/Sharishth/DockerPodmanFiles)](LICENSE)
 
 A collection of useful **Dockerfiles** and **Containerfiles** that can be built with **Podman** or **Docker** to create images tailored for specific use cases.  
 
