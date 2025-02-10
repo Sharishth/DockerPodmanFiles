@@ -1,6 +1,16 @@
 # Pull Image
 
-```command```
+1. Podman Pull (by tag)
+    - ```podman pull quay.io/sharishth/fedora-vscode-unofficial:latest```
+
+2. Docker Pull (by tag)
+    - ```docker pull quay.io/sharishth/fedora-vscode-unofficial:latest```
+
+3. Podman Pull (by digest)
+    - ```podman pull quay.io/sharishth/fedora-vscode-unofficial@sha256:ec1a64129500e3ebcd62fc708742512948f0c0985439c3e649c9e3bb501ca709```
+  
+4. Docker Pull (by digest)
+    - ```docker pull quay.io/sharishth/fedora-vscode-unofficial@sha256:ec1a64129500e3ebcd62fc708742512948f0c0985439c3e649c9e3bb501ca709```
 
 # Execution
 
