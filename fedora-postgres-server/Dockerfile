@@ -27,9 +27,6 @@ RUN chmod +x /usr/local/bin/docker-entrypoint.sh /usr/local/bin/docker-ensure-in
 # Set PostgreSQL user for runtime operations
 USER postgres
 
-# Define the database volume
-VOLUME /var/lib/postgresql/data
-
 # Expose PostgreSQL port
 EXPOSE 5432
 
